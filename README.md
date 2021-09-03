@@ -16,11 +16,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/sameer-555/);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📫 How to reach me: sameerborkar6@gmail.com;
+- 📝 [Resume](https://docs.google.com/document/d/1hA2q5OsX3up-vAOmEJudYAu-hiJ-x-AEtGYrHzhrFOE).
 
 </br>
 
