@@ -22,10 +22,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📝 [Resume](https://docs.google.com/document/d/1hA2q5OsX3up-vAOmEJudYAu-hiJ-x-AEtGYrHzhrFOE).
 
 </br>
-
+</br>
+</br>
 
 📈 **My GitHub Stats:**
-<br><br>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-555&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
