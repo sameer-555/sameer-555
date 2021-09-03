@@ -4,9 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sameer-555.github.io/Resume/#)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sameerr555/?hl=en)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-555.sameer-555)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a full-stack software engineer. I love programming, reading and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -23,16 +23,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
 
 </br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 18 mins   █████████████████████▓░░░   86.71 % 
-Markdown     40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
