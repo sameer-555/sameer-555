@@ -24,7 +24,15 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 </br>
 </br>
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   6 hrs 18 mins   █████████████████████▓░░░   86.71 % 
+Markdown     40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+```
+<!--END_SECTION:waka-->
 📈 **My GitHub Stats:**
 
 <p>
